@@ -10,5 +10,7 @@ public class Abra {
          if (b > a) {
              System.out.println(c);
          }
+
+        System.out.println("Take a job");
     }
 }
